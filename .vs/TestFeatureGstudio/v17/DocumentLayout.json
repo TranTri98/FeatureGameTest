@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bon\\Project\\TestFeatureGstudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\mangers\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mangers\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|d:\\bon\\project\\testfeaturegstudio\\assets\\scripts\\mangers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mangers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\mangers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mangers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\environment\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|D:\\Bon\\Project\\TestFeatureGstudio\\assets\\scripts\\config\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5AF436-99CB-1655-D773-A99FF7D73F31}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\config\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Mangers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mangers\\GameManager.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Mangers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mangers\\GameManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:14:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Mangers\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mangers\\SpawnManager.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Mangers\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mangers\\SpawnManager.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAkwEwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:07:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:03:23.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Mangers\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mangers\\SoundManager.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Mangers\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mangers\\SoundManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA4wBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:27:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Environment\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\DoorController.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Environment\\DoorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\DoorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:46:51.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:48:58.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Config\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Config\\GameConfig.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Config\\GameConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Config\\GameConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:42:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Bon\\Project\\TestFeatureGstudio\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAnwD0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:41:45.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

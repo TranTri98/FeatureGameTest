@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95861b7723100e46ac4d98829cde28f, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  playerMoveSpeed: 5
+  sprintMultiplier: 1.6
+  jumpHeight: 1
+  gravity: -9.81
+  rotationSpeed: 10
+  enemySpeed: 3.5
+  killDistance: 2.5
+  enemySpawnInterval: 3
+  spawnRadius: 12
+  minSpawnDistance: 6
+  enemyPoolSize: 24
+  keyRespawnTime: 12
+  keyMinDistanceFromStart: 15
+  obstacleCount: 10
+  obstaclePrefab:
+  - {fileID: 3074032991447229604, guid: ebc4a50eb5c187947817efb7f3d72924, type: 3}
+  - {fileID: 6125070605571735718, guid: 25064d002c993d9409c0698a78930b1f, type: 3}
+  - {fileID: 4483928960352295147, guid: dc9b885602f11ae4b81c7749b464e6dc, type: 3}
+  - {fileID: 3480301468181321488, guid: 34883640f89bba84885fe5885c21fa37, type: 3}
+  - {fileID: 7284746366758471360, guid: 29b8208c0e96a224ba307748030ef061, type: 3}
+  - {fileID: 364417228341977459, guid: a81f44cd09f9df54fac3fd8623a66806, type: 3}
+  - {fileID: 6272571261425608673, guid: d23f889ee6731c448a8b0d59b4ee8088, type: 3}
+  - {fileID: 6409577298265123047, guid: d9691ccd0f8b8614aba757fa4b4cdf8b, type: 3}
+  - {fileID: 1073810001601242516, guid: ac35cb5061595e34a86fde87ec12288b, type: 3}
+  - {fileID: 5651021592816113300, guid: 6f96ed54204e1b04ba9e374d43f51bd6, type: 3}
+  - {fileID: 4498884702426641234, guid: 337841c711a168941bad28c82c132574, type: 3}
+  - {fileID: 1426254898626095101, guid: 6c4f80978ba9d5643881d5508aee3dba, type: 3}
+  - {fileID: 6591814435315512985, guid: 375aacc276d724f41b0baa76221478d3, type: 3}
+  - {fileID: 1213575154955037221, guid: 53ae3832d83089f4abb4091017ba91f6, type: 3}
+  - {fileID: 4955705534400271548, guid: 6fbf4207e2fef5e4687d16c507fc055b, type: 3}
+  - {fileID: 9159140522573038930, guid: 865ce0ffbc6ec67439fa4bc74c14bd0d, type: 3}
+  - {fileID: 8507374903132354548, guid: 4c99ccd66904b4f41b452d4403e13bd0, type: 3}
+  - {fileID: 2144799860415710104, guid: 4242a69f308b1484783adb21b0eecad6, type: 3}
+  - {fileID: 5685916144907967285, guid: 3663fe85de2b3634e8ec440c8b8c3dca, type: 3}
+  - {fileID: 5994607674021740567, guid: ceddce4fa21192b4894d7164957a9fa9, type: 3}
+  - {fileID: 7670171143649940076, guid: 7bc40f2a5b27761468e228e387db9d0e, type: 3}
+  - {fileID: 3673454366023643128, guid: 3df9b2ddf5f6382488f21cad82623b16, type: 3}
+  - {fileID: 3074870364720678363, guid: f2b7b9eae59666f479897a6d26d6850f, type: 3}
